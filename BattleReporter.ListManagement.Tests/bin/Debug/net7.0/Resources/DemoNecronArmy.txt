@@ -1,0 +1,36 @@
+DEMO NECRON ARMY
+
+Army Faction: Necrons
+	- Game Mode: Eternal War
+	- Army Size: Combat Patrol
+
+PATROL DETACHMENT
+
+	- Faction: Necrons
+
+	- Sub-faction: Szarekhan
+
+HQ
+
+Overlord (90)
+	- Warlord
+	- Traits: Honourable Combatant
+	- Relics: Sempiternal Weave
+
+Troops
+
+Necron Warriors (130)
+	- 10x Necron Warrior
+
+Elites
+
+Skorpekh Destroyers (90)
+	- 2x Skorpekh Destroyer
+	- 1x Skorpekh Destroyer with hyperphase reap-blade
+
+Total Command Points: 2/5
+
+Reinforcement Points: 190
+
+Total Points: 310/500
+

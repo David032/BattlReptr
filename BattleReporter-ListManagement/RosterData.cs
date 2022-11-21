@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BattleReporter.ListManagement
 {
-    internal class ListData
+    public class ListData
     {
         public string Name;
         public string ArmyFaction;
@@ -15,7 +15,7 @@ namespace BattleReporter.ListManagement
         public List<DetachmentData> Detachments;
     }
 
-    class DetachmentData
+    public class DetachmentData
     {
         public string DetachmentType;
         public string Faction;
