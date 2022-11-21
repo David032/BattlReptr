@@ -1,0 +1,37 @@
+DEMO MARINE ARMY
+
+Army Faction: Imperium
+	- Game Mode: Eternal War
+	- Army Size: Combat Patrol
+
+PATROL DETACHMENT
+
+	- Faction: Adeptus Astartes
+
+	- Sub-faction: Ultramarines
+
+HQ
+
+Primaris Captain (105)
+	- Warlord
+	- Master-crafted power sword, Heavy bolt pistol, Relic shield
+	- Traits: Champion of Humanity
+	- Relics: The Burning Blade
+
+Troops
+
+Assault Intercessor Squad (95)
+	- 4x Assault Intercessor
+	- 1x Assault Intercessor Sergeant
+
+Fast Attack
+
+Outrider Squad (135)
+	- 2x Outrider
+	- 1x Outrider Sergeant
+
+Total Command Points: 2/5
+
+Reinforcement Points: 165
+
+Total Points: 335/500

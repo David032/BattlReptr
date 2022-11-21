@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BattleReporter.ListManagement.ListParser">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAIAAAA=</HashCode>
+      <FileName>ListParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleReporter.ListManagement.ListData" Collapsed="true">
+    <Position X="10.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAARAAAAAAAABAAAAAQAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>RosterData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleReporter.ListManagement.DetachmentData" Collapsed="true">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>RosterData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
