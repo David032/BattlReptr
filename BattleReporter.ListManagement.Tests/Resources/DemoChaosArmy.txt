@@ -1,0 +1,157 @@
+﻿DEMO CHAOS ARMY
+
+
+Army Faction: Chaos
+        - Game Mode: Eternal War
+        - Army Size: Strike Force
+
+
+PATROL DETACHMENT
+
+
+        - Faction: Legiones Daemonica
+
+
+HQ
+
+
+Bloodmaster (90)
+
+
+Troops
+
+
+Bloodletters (130)
+        - 9x Bloodletter
+        - 1x Bloodreaper
+
+
+Elites
+
+
+Bloodcrushers (135)
+        - 2x Bloodcrusher
+        - 1x Bloodhunter
+
+
+Fast Attack
+
+
+Flesh Hounds (95)
+        - 1x Gore Hound
+        - 4x Flesh Hound
+
+
+BATTALION DETACHMENT
+
+
+        - Faction: Traitoris Astartes
+
+
+        - Sub-faction: Black Legion
+
+
+HQ
+
+
+Chaos Lord (115)
+        - Warlord
+        - Mark of Chaos: Undivided
+        - Traits: Flames of Spite
+        - Relics: Cloak of Conquest
+
+
+Dark Apostle (95)
+        - Mark of Chaos: Undivided
+        - 1x Dark Apostle
+        - 2x Dark Disciple
+        - Prayers: Roll for 1 random bonus(es)
+
+
+Sorcerer (95)
+        - Mark of Chaos: Undivided
+        - Psychic Powers: Infernal Gaze, Prescience
+        - Relics: Liber Hereticus
+        - Stratagems: Gifts of Chaos
+
+
+Troops
+
+
+Legionaries (90)
+        - Mark of Chaos: Undivided
+        - 4x Legionary
+        - 1x Aspiring Champion
+        - Relics: Trophies of Slaughter
+        - Stratagems: Trophies of the Long War
+
+
+Legionaries (110)
+        - Mark of Chaos: Undivided
+        - 3x Legionary
+        - 1x Legionary: Balefire tome
+        - 1x Aspiring Champion
+
+
+Legionaries (90)
+        - Mark of Chaos: Undivided
+        - 4x Legionary
+        - 1x Aspiring Champion
+
+
+Elites
+
+
+Chosen (125)
+        - Mark of Chaos: Undivided
+        - 1x Chosen Champion 
+        - 4x Chosen
+
+
+Helbrute (115)
+        - Mark of Chaos: Undivided
+
+
+Master of Executions (65)
+        - Mark of Chaos: Undivided
+        - Traits: Hatred Incarnate
+        - Stratagems: Aspiring Lord
+
+
+Fast Attack
+
+
+Chaos Bikers (90)
+        - Mark of Chaos: Undivided
+        - 2x Chaos Biker
+        - 1x Biker Champion
+
+
+Heavy Support
+
+
+Havocs (130)
+        - Mark of Chaos: Undivided
+        - 1x Havoc Champion
+        - 4x Havoc
+
+
+Stratagems
+
+
+        - Gifts of Chaos (1CP)
+
+
+        - Trophies of the Long War (1CP)
+
+
+        - Aspiring Lord (1CP)
+
+
+Total Command Points: 8/15
+
+
+Reinforcement Points: 430
+
+
+Total Points: 1570/2000

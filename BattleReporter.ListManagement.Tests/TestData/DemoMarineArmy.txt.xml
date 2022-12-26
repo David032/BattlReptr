@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>DEMO MARINE ARMY</Name>
+  <ArmyFaction>Army Faction: Imperium</ArmyFaction>
+  <GameMode>	- Game Mode: Eternal War</GameMode>
+  <ArmySize>	- Army Size: Combat Patrol</ArmySize>
+  <Detachments>
+    <DetachmentData>
+      <DetachmentType>PATROL DETACHMENT</DetachmentType>
+      <Faction>	- Faction: Adeptus Astartes</Faction>
+      <SubFaction>	- Sub-faction: Ultramarines</SubFaction>
+      <Units>
+        <Unit>
+          <Name>Primaris Captain </Name>
+          <PointsValue>105</PointsValue>
+          <Description>	- Master-crafted power sword, Heavy bolt pistol, Relic shield
+	- Warlord
+</Description>
+          <WarlordTraits>	- Traits: Champion of Humanity</WarlordTraits>
+          <Relics>	- Relics: The Burning Blade</Relics>
+          <Warlord>false</Warlord>
+        </Unit>
+        <Unit>
+          <Name>Assault Intercessor Squad </Name>
+          <PointsValue>95</PointsValue>
+          <Description>	- 1x Assault Intercessor Sergeant
+	- 4x Assault Intercessor
+</Description>
+          <Warlord>false</Warlord>
+        </Unit>
+        <Unit>
+          <Name>Outrider Squad </Name>
+          <PointsValue>135</PointsValue>
+          <Description>	- 1x Outrider Sergeant
+	- 2x Outrider
+</Description>
+          <Warlord>false</Warlord>
+        </Unit>
+      </Units>
+    </DetachmentData>
+  </Detachments>
+</ListData>

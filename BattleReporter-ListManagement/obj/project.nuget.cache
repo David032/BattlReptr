@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fAwLWRbo+vvD8TW+NjK4NiWmOL6My4cmHYOyjMlZIFNcc/7hbuWxiPK26u8K1r3ybJoKePO+0ULwTIMm2/MPmg==",
+  "dgSpecHash": "3qSYb4/Bj8SfEqgMZgxWbSJMMpjIcxh9FkFWb/E57lQG5uPWTV07at9okJbbr45BXuyxISvhyzzdLs4tF++gwA==",
   "success": true,
-  "projectFilePath": "I:\\BattlReptr\\BattleReporter-ListManagement\\BattleReporter.ListManagement.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\david\\source\\repos\\David032\\BattlReptr\\BattleReporter-ListManagement\\BattleReporter.ListManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
